@@ -1,5 +1,5 @@
 # test-discord-bot
-Doesn't really do anything kinda discord bot, for reference
+Doesn't really do anything, for reference
 
 .env key is no good, generate a new one at https://discord.com/developers/applications/793937515852726282/bot
 
